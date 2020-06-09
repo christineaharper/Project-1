@@ -89,7 +89,7 @@ a {
 
 header {
   text-align: center;
-  background: linear-gradient(to right, rgba(207, 95, 157, 0.25), rgba(77, 97, 187, 0.3)), url('../images/cn-tower.jpg') no-repeat center center/cover;
+  background: linear-gradient(to right, rgba(207, 95, 157, 0.25), rgba(77, 97, 187, 0.3)), url('images/cn-tower.jpg') no-repeat center center/cover;
   overflow: hidden;
   padding-top: 60px;
 }
